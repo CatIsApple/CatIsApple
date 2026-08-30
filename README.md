@@ -45,9 +45,9 @@
     <td width="50%" valign="top">
       <sub>DESIGN</sub><br><br>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-      <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD">
-      <img src="https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white" alt="Spline">
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
+      <img src="./assets/badges/adobe-xd.svg" alt="Adobe XD">
+      <img src="./assets/badges/spline.svg" alt="Spline">
+      <img src="./assets/badges/photoshop.svg" alt="Adobe Photoshop">
     </td>
   </tr>
 </table>
