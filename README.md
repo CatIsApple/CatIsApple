@@ -61,11 +61,11 @@
 배우고 만들며 남긴 기록입니다.
 
 <p>
-  <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/projects">Projects</a></strong> ·
-  <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/experiences">Experiences</a></strong> ·
-  <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/reviews">Reviews</a></strong> ·
-  <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/til">TIL</a></strong> ·
-  <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/wil">WIL</a></strong>
+  <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/projects">Projects(1)</a></strong> ·
+  <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/experiences">Experiences(2)</a></strong> ·
+  <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/reviews">Reviews(0)</a></strong> ·
+  <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/til">TIL(2)</a></strong> ·
+  <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/wil">WIL(1)</a></strong>
 </p>
 
 ## Latest
