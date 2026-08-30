@@ -14,10 +14,14 @@
 
 </div>
 
-<p align="center">
-  <img src="./assets/profile/now.png" alt="NOW" width="49%">
-  <img src="./assets/profile/focus.png" alt="FOCUS" width="49%">
-</p>
+<table>
+  <tr>
+    <td width="100%" align="center">
+      <img src="./assets/profile/now.png" alt="NOW" width="49%">
+      <img src="./assets/profile/focus.png" alt="FOCUS" width="49%">
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
