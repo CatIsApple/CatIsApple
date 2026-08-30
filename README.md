@@ -35,22 +35,34 @@
   <tr>
     <td width="50%" valign="top">
       <sub>DEVELOPMENT</sub><br><br>
-      <code>React</code>&nbsp;
-      <code>Next.js</code>&nbsp;
-      <code>Svelte</code>&nbsp;
-      <code>TypeScript</code>&nbsp;
-      <code>Tailwind CSS</code>&nbsp;
-      <code>shadcn/ui</code>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui">
     </td>
     <td width="50%" valign="top">
       <sub>DESIGN</sub><br><br>
-      <code>Figma</code>&nbsp;
-      <code>Adobe XD</code>&nbsp;
-      <code>Spline</code>&nbsp;
-      <code>Adobe Photoshop</code>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD">
+      <img src="https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white" alt="Spline">
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
     </td>
   </tr>
 </table>
+
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    alt="CatIsApple의 3D GitHub 기여도"
+    width="100%"
+  >
+</picture>
 
 ---
 
