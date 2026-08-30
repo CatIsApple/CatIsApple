@@ -58,8 +58,6 @@
 
 # Jungle_ Blog
 
-배우고 만들며 남긴 기록입니다.
-
 <p>
   <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/projects">Projects(1)</a></strong> ·
   <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/experiences">Experiences(2)</a></strong> ·
