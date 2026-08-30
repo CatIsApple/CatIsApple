@@ -14,20 +14,10 @@
 
 </div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>NOW</sub><br>
-      <strong>KRAFTON JUNGLE SW-AI 13기</strong><br>
-      기초를 다시 단단히 쌓으며 CS와 문제 해결을 공부하고 있습니다.
-    </td>
-    <td width="50%" valign="top">
-      <sub>FOCUS</sub><br>
-      <strong>Design to Development</strong><br>
-      사용자의 흐름을 설계하고 제품의 화면으로 구현하는 일에 집중합니다.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/profile/now.png" alt="NOW" width="49%">
+  <img src="./assets/profile/focus.png" alt="FOCUS" width="49%">
+</p>
 
 ## Stack
 
