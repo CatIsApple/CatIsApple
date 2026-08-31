@@ -68,13 +68,34 @@
   <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/projects">Projects(1)</a></strong> ·
   <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/experiences">Experiences(2)</a></strong> ·
   <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/reviews">Reviews(0)</a></strong> ·
-  <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/til">TIL(3)</a></strong> ·
+  <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/til">TIL(4)</a></strong> ·
   <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/wil">WIL(1)</a></strong>
 </p>
 
 ## Latest
 
 <table>
+  <tr>
+    <td rowspan="2" width="40%" valign="top">
+      <a href="https://github.com/CatIsApple/Jungle_/tree/main/til/2026-08-31-big-o-and-radix-sort">
+        <img
+          src="https://raw.githubusercontent.com/CatIsApple/Jungle_/main/assets/posts/til-2026-08-31.png"
+          alt="Big O를 처음 배우다"
+          width="100%"
+        >
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <sub>TIL · 2026.08.31</sub><br>
+      <strong>Big O를 처음 배우다</strong><br>
+      시간·공간 복잡도를 처음 배우고, Radix Sort를 직접 구현하며 막힌 지점을 해결한 기록.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="60%" height="1" valign="bottom">
+      <strong><a href="https://github.com/CatIsApple/Jungle_/tree/main/til/2026-08-31-big-o-and-radix-sort">글 읽기 →</a></strong>
+    </td>
+  </tr>
   <tr>
     <td rowspan="2" width="40%" valign="top">
       <a href="https://github.com/CatIsApple/Jungle_/tree/main/til/2026-08-30-planning-cloud-project">
