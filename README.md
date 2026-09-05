@@ -65,23 +65,25 @@
 
 # MyPage_
 
-<sub>COMPUTER SYSTEM · 10 CATEGORIES · 116 TOPICS · 1 POST</sub>
+<sub>COMPUTER SYSTEM · 10 CATEGORIES · 116 SUBCATEGORIES · 1 POST</sub>
 
 <p>
   <strong><a href="https://github.com/CatIsApple/MyPage_">MyPage_ Repository ↗</a></strong>
 </p>
 
 <p>
-  <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview">00 · System Overview(6)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution">01 · Programming & Execution(11)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/02-data-structures-algorithms">02 · Data Structures & Algorithms(9)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/03-computer-architecture">03 · Computer Architecture(10)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/04-operating-systems">04 · Operating Systems(13)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/05-computer-networks">05 · Computer Networks(14)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/06-storage-databases">06 · Storage & Databases(12)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/07-distributed-systems">07 · Distributed Systems(13)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/08-software-engineering">08 · Software Engineering(13)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/09-security-reliability">09 · Security & Reliability(15)</a></strong>
+  <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview">00 . System Overview(6)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution">01 . Programming &amp; Execution(11)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/02-data-structures-algorithms">02 . Data Structures &amp; Algorithms(9)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/03-computer-architecture">03 . Computer Architecture(10)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/04-operating-systems">04 . Operating Systems(13)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/05-computer-networks">05 . Computer Networks(14)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/06-storage-databases">06 . Storage &amp; Databases(12)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/07-distributed-systems">07 . Distributed Systems(13)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/08-software-engineering">08 . Software Engineering(13)</a></strong> · <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/09-security-reliability">09 . Security &amp; Reliability(15)</a></strong>
 </p>
+
+<img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/computer-system-cover-16x10.png" alt="Computer System" width="100%">
 
 ## Latest
 
 <table>
   <tr>
     <td rowspan="2" width="40%" valign="top">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/program-execution-flow/compilation-interpretation">
-        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/compilation-interpretation/cover.jpg" alt="Compilation & Interpretation (컴파일과 해석)" width="100%">
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/02-program-execution-flow/compilation-interpretation">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/compilation-interpretation/compilation-interpretation-cover.jpg" alt="Compilation &amp; Interpretation (컴파일과 해석)" width="100%">
       </a>
     </td>
     <td width="60%" valign="top">
@@ -92,7 +94,7 @@
   </tr>
   <tr height="1">
     <td width="60%" height="1" valign="bottom">
-      <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/program-execution-flow/compilation-interpretation">글 읽기 →</a></strong>
+      <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/02-program-execution-flow/compilation-interpretation">글 읽기 →</a></strong>
     </td>
   </tr>
 </table>
@@ -102,93 +104,93 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-  <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview">
-    <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/mac-background.jpg" alt="00 · System Overview (시스템 전체 흐름)" width="100%">
-  </a><br>
-  <sub>00 · 6 TOPICS · 1 POST</sub><br>
-  <strong>00 · System Overview (시스템 전체 흐름)</strong><br>
-  시스템 전체 흐름
-</td>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/notion-tahoe-light-16x10.jpg" alt="00 . System Overview (시스템 전체 흐름)" width="100%">
+      </a>
+      <br>
+      <sub>00 . 6 SUBCATEGORIES · 1 POST</sub><br>
+      <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview">00 . System Overview (시스템 전체 흐름)</a></strong>
+    </td>
     <td width="50%" valign="top">
-  <a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution">
-    <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/mac-background.jpg" alt="01 · Programming & Execution (프로그래밍과 실행)" width="100%">
-  </a><br>
-  <sub>01 · 11 TOPICS · 0 POSTS</sub><br>
-  <strong>01 · Programming & Execution (프로그래밍과 실행)</strong><br>
-  프로그래밍과 실행
-</td>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/notion-tahoe-light-16x10.jpg" alt="01 . Programming &amp; Execution (프로그래밍과 실행)" width="100%">
+      </a>
+      <br>
+      <sub>01 . 11 SUBCATEGORIES · 0 POSTS</sub><br>
+      <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution">01 . Programming &amp; Execution (프로그래밍과 실행)</a></strong>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-  <a href="https://github.com/CatIsApple/MyPage_/tree/main/02-data-structures-algorithms">
-    <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/mac-background.jpg" alt="02 · Data Structures & Algorithms (자료구조와 알고리즘)" width="100%">
-  </a><br>
-  <sub>02 · 9 TOPICS · 0 POSTS</sub><br>
-  <strong>02 · Data Structures & Algorithms (자료구조와 알고리즘)</strong><br>
-  자료구조와 알고리즘
-</td>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/02-data-structures-algorithms">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/notion-tahoe-light-16x10.jpg" alt="02 . Data Structures &amp; Algorithms (자료구조와 알고리즘)" width="100%">
+      </a>
+      <br>
+      <sub>02 . 9 SUBCATEGORIES · 0 POSTS</sub><br>
+      <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/02-data-structures-algorithms">02 . Data Structures &amp; Algorithms (자료구조와 알고리즘)</a></strong>
+    </td>
     <td width="50%" valign="top">
-  <a href="https://github.com/CatIsApple/MyPage_/tree/main/03-computer-architecture">
-    <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/mac-background.jpg" alt="03 · Computer Architecture (컴퓨터 구조)" width="100%">
-  </a><br>
-  <sub>03 · 10 TOPICS · 0 POSTS</sub><br>
-  <strong>03 · Computer Architecture (컴퓨터 구조)</strong><br>
-  컴퓨터 구조
-</td>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/03-computer-architecture">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/notion-tahoe-light-16x10.jpg" alt="03 . Computer Architecture (컴퓨터 구조)" width="100%">
+      </a>
+      <br>
+      <sub>03 . 10 SUBCATEGORIES · 0 POSTS</sub><br>
+      <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/03-computer-architecture">03 . Computer Architecture (컴퓨터 구조)</a></strong>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-  <a href="https://github.com/CatIsApple/MyPage_/tree/main/04-operating-systems">
-    <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/mac-background.jpg" alt="04 · Operating Systems (운영체제)" width="100%">
-  </a><br>
-  <sub>04 · 13 TOPICS · 0 POSTS</sub><br>
-  <strong>04 · Operating Systems (운영체제)</strong><br>
-  운영체제
-</td>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/04-operating-systems">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/notion-tahoe-light-16x10.jpg" alt="04 . Operating Systems (운영체제)" width="100%">
+      </a>
+      <br>
+      <sub>04 . 13 SUBCATEGORIES · 0 POSTS</sub><br>
+      <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/04-operating-systems">04 . Operating Systems (운영체제)</a></strong>
+    </td>
     <td width="50%" valign="top">
-  <a href="https://github.com/CatIsApple/MyPage_/tree/main/05-computer-networks">
-    <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/mac-background.jpg" alt="05 · Computer Networks (컴퓨터 네트워크)" width="100%">
-  </a><br>
-  <sub>05 · 14 TOPICS · 0 POSTS</sub><br>
-  <strong>05 · Computer Networks (컴퓨터 네트워크)</strong><br>
-  컴퓨터 네트워크
-</td>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/05-computer-networks">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/notion-tahoe-light-16x10.jpg" alt="05 . Computer Networks (컴퓨터 네트워크)" width="100%">
+      </a>
+      <br>
+      <sub>05 . 14 SUBCATEGORIES · 0 POSTS</sub><br>
+      <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/05-computer-networks">05 . Computer Networks (컴퓨터 네트워크)</a></strong>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-  <a href="https://github.com/CatIsApple/MyPage_/tree/main/06-storage-databases">
-    <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/mac-background.jpg" alt="06 · Storage & Databases (저장장치와 데이터베이스)" width="100%">
-  </a><br>
-  <sub>06 · 12 TOPICS · 0 POSTS</sub><br>
-  <strong>06 · Storage & Databases (저장장치와 데이터베이스)</strong><br>
-  저장장치와 데이터베이스
-</td>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/06-storage-databases">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/notion-tahoe-light-16x10.jpg" alt="06 . Storage &amp; Databases (저장장치와 데이터베이스)" width="100%">
+      </a>
+      <br>
+      <sub>06 . 12 SUBCATEGORIES · 0 POSTS</sub><br>
+      <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/06-storage-databases">06 . Storage &amp; Databases (저장장치와 데이터베이스)</a></strong>
+    </td>
     <td width="50%" valign="top">
-  <a href="https://github.com/CatIsApple/MyPage_/tree/main/07-distributed-systems">
-    <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/mac-background.jpg" alt="07 · Distributed Systems (분산 시스템과 시스템 설계)" width="100%">
-  </a><br>
-  <sub>07 · 13 TOPICS · 0 POSTS</sub><br>
-  <strong>07 · Distributed Systems (분산 시스템과 시스템 설계)</strong><br>
-  분산 시스템과 시스템 설계
-</td>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/07-distributed-systems">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/notion-tahoe-light-16x10.jpg" alt="07 . Distributed Systems (분산 시스템과 시스템 설계)" width="100%">
+      </a>
+      <br>
+      <sub>07 . 13 SUBCATEGORIES · 0 POSTS</sub><br>
+      <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/07-distributed-systems">07 . Distributed Systems (분산 시스템과 시스템 설계)</a></strong>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-  <a href="https://github.com/CatIsApple/MyPage_/tree/main/08-software-engineering">
-    <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/mac-background.jpg" alt="08 · Software Engineering (소프트웨어 공학과 운영)" width="100%">
-  </a><br>
-  <sub>08 · 13 TOPICS · 0 POSTS</sub><br>
-  <strong>08 · Software Engineering (소프트웨어 공학과 운영)</strong><br>
-  소프트웨어 공학과 운영
-</td>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/08-software-engineering">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/notion-tahoe-light-16x10.jpg" alt="08 . Software Engineering (소프트웨어 공학과 운영)" width="100%">
+      </a>
+      <br>
+      <sub>08 . 13 SUBCATEGORIES · 0 POSTS</sub><br>
+      <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/08-software-engineering">08 . Software Engineering (소프트웨어 공학과 운영)</a></strong>
+    </td>
     <td width="50%" valign="top">
-  <a href="https://github.com/CatIsApple/MyPage_/tree/main/09-security-reliability">
-    <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/mac-background.jpg" alt="09 · Security & Reliability (보안과 안정성)" width="100%">
-  </a><br>
-  <sub>09 · 15 TOPICS · 0 POSTS</sub><br>
-  <strong>09 · Security & Reliability (보안과 안정성)</strong><br>
-  보안과 안정성
-</td>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/09-security-reliability">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/notion-tahoe-light-16x10.jpg" alt="09 . Security &amp; Reliability (보안과 안정성)" width="100%">
+      </a>
+      <br>
+      <sub>09 . 15 SUBCATEGORIES · 0 POSTS</sub><br>
+      <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/09-security-reliability">09 . Security &amp; Reliability (보안과 안정성)</a></strong>
+    </td>
   </tr>
 </table>
 
