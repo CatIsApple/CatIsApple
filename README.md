@@ -15,16 +15,7 @@
 
 </div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/profile/now.png" alt="NOW" width="100%">
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/profile/focus.png" alt="FOCUS" width="100%">
-    </td>
-  </tr>
-</table>
+<img src="./assets/profile/now.png" alt="NOW" width="50%" align="top"><img src="./assets/profile/focus.png" alt="FOCUS" width="50%" align="top">
 
 ## Stack
 
