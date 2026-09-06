@@ -71,7 +71,7 @@
   <strong><a href="https://github.com/CatIsApple/MyPage_">MyPage_ Repository (저장소) ↗</a></strong>
 </p>
 
-<img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/00-system-overview.jpg" alt="System Overview (시스템 전체 흐름)" width="100%">
+<img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/00-system-overview.png" alt="System Overview (시스템 전체 흐름)" width="100%">
 
 <p>
   <strong><a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview">00 . System Overview (시스템 전체 흐름) (6)</a></strong> ·
@@ -114,7 +114,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview">
-        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/00-system-overview.jpg" alt="00 . System Overview (시스템 전체 흐름)" width="100%">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/00-system-overview.png" alt="00 . System Overview (시스템 전체 흐름)" width="100%">
       </a>
       <br>
       <sub>6 SUBCATEGORIES (하위 카테고리) · 1 ARTICLE (글)</sub><br>
@@ -122,7 +122,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution">
-        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/01-programming-execution.jpg" alt="01 . Programming &amp; Execution (프로그래밍과 실행)" width="100%">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/01-programming-execution.png" alt="01 . Programming &amp; Execution (프로그래밍과 실행)" width="100%">
       </a>
       <br>
       <sub>11 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub><br>
@@ -132,7 +132,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/02-data-structures-algorithms">
-        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/02-data-structures-algorithms.jpg" alt="02 . Data Structures &amp; Algorithms (자료구조와 알고리즘)" width="100%">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/02-data-structures-algorithms.png" alt="02 . Data Structures &amp; Algorithms (자료구조와 알고리즘)" width="100%">
       </a>
       <br>
       <sub>9 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub><br>
@@ -140,7 +140,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/03-computer-architecture">
-        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/03-computer-architecture.jpg" alt="03 . Computer Architecture (컴퓨터 구조)" width="100%">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/03-computer-architecture.png" alt="03 . Computer Architecture (컴퓨터 구조)" width="100%">
       </a>
       <br>
       <sub>10 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub><br>
@@ -150,7 +150,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/04-operating-systems">
-        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/04-operating-systems.jpg" alt="04 . Operating Systems (운영체제)" width="100%">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/04-operating-systems.png" alt="04 . Operating Systems (운영체제)" width="100%">
       </a>
       <br>
       <sub>13 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub><br>
@@ -158,7 +158,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/05-computer-networks">
-        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/05-computer-networks.jpg" alt="05 . Computer Networks (컴퓨터 네트워크)" width="100%">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/05-computer-networks.png" alt="05 . Computer Networks (컴퓨터 네트워크)" width="100%">
       </a>
       <br>
       <sub>14 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub><br>
@@ -168,7 +168,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/06-storage-databases">
-        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/06-storage-databases.jpg" alt="06 . Storage &amp; Databases (저장장치와 데이터베이스)" width="100%">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/06-storage-databases.png" alt="06 . Storage &amp; Databases (저장장치와 데이터베이스)" width="100%">
       </a>
       <br>
       <sub>12 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub><br>
@@ -176,7 +176,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/07-distributed-systems">
-        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/07-distributed-systems.jpg" alt="07 . Distributed Systems (분산 시스템과 시스템 설계)" width="100%">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/07-distributed-systems.png" alt="07 . Distributed Systems (분산 시스템과 시스템 설계)" width="100%">
       </a>
       <br>
       <sub>13 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub><br>
@@ -186,7 +186,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/08-software-engineering">
-        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/08-software-engineering.jpg" alt="08 . Software Engineering (소프트웨어 공학과 운영)" width="100%">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/08-software-engineering.png" alt="08 . Software Engineering (소프트웨어 공학과 운영)" width="100%">
       </a>
       <br>
       <sub>13 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub><br>
@@ -194,7 +194,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/09-security-reliability">
-        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/09-security-reliability.jpg" alt="09 . Security &amp; Reliability (보안과 안정성)" width="100%">
+        <img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/categories/09-security-reliability.png" alt="09 . Security &amp; Reliability (보안과 안정성)" width="100%">
       </a>
       <br>
       <sub>15 SUBCATEGORIES (하위 카테고리) · 0 ARTICLES (글)</sub><br>
