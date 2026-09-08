@@ -48,6 +48,21 @@
 <table>
   <tr>
     <td rowspan="2" width="25%" valign="middle">
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/firmware"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/firmware/cover.png" alt="Firmware (펌웨어)" width="100%"></a>
+    </td>
+    <td width="75%" valign="top">
+      <sub>2026.09.09</sub><br>
+      <strong>Firmware (펌웨어)</strong><br>
+      펌웨어의 역할과 소프트웨어와의 차이, 부팅·하드웨어 제어 과정과 보안을 정리했다.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="75%" height="1" valign="bottom">
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/firmware">Read Article (글 읽기) →</a>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="25%" valign="middle">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/runtime"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/runtime/cover.jpg" alt="Runtime (런타임)" width="100%"></a>
     </td>
     <td width="75%" valign="top">
@@ -59,21 +74,6 @@
   <tr height="1">
     <td width="75%" height="1" valign="bottom">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/runtime">Read Article (글 읽기) →</a>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2" width="25%" valign="middle">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/02-program-execution-flow/executable-bytecode"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/executable-bytecode/cover.jpg" alt="Executable &amp; Bytecode (실행 파일과 바이트코드)" width="100%"></a>
-    </td>
-    <td width="75%" valign="top">
-      <sub>2026.09.06</sub><br>
-      <strong>Executable &amp; Bytecode (실행 파일과 바이트코드)</strong><br>
-      바이트코드와 JVM부터 실행 파일이 만들어지고 실행되는 흐름을 정리했습니다.
-    </td>
-  </tr>
-  <tr height="1">
-    <td width="75%" height="1" valign="bottom">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/02-program-execution-flow/executable-bytecode">Read Article (글 읽기) →</a>
     </td>
   </tr>
 </table>
