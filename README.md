@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td rowspan="2" width="25%" valign="middle">
-      <a href="https://catisapple.github.io/MyPage_/00-system-overview/01-system-components/runtime/"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/runtime/cover.jpg" alt="Runtime (런타임)" width="100%"></a>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/runtime"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/runtime/cover.jpg" alt="Runtime (런타임)" width="100%"></a>
     </td>
     <td width="75%" valign="top">
       <sub>2026.09.07</sub><br>
@@ -58,12 +58,12 @@
   </tr>
   <tr height="1">
     <td width="75%" height="1" valign="bottom">
-      <a href="https://catisapple.github.io/MyPage_/00-system-overview/01-system-components/runtime/">Read Article (글 읽기) →</a>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/runtime">Read Article (글 읽기) →</a>
     </td>
   </tr>
   <tr>
     <td rowspan="2" width="25%" valign="middle">
-      <a href="https://catisapple.github.io/MyPage_/00-system-overview/02-program-execution-flow/executable-bytecode/"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/executable-bytecode/cover.jpg" alt="Executable &amp; Bytecode (실행 파일과 바이트코드)" width="100%"></a>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/02-program-execution-flow/executable-bytecode"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/executable-bytecode/cover.jpg" alt="Executable &amp; Bytecode (실행 파일과 바이트코드)" width="100%"></a>
     </td>
     <td width="75%" valign="top">
       <sub>2026.09.06</sub><br>
@@ -73,12 +73,12 @@
   </tr>
   <tr height="1">
     <td width="75%" height="1" valign="bottom">
-      <a href="https://catisapple.github.io/MyPage_/00-system-overview/02-program-execution-flow/executable-bytecode/">Read Article (글 읽기) →</a>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/02-program-execution-flow/executable-bytecode">Read Article (글 읽기) →</a>
     </td>
   </tr>
 </table>
 
-[All Articles (전체 글) →](https://catisapple.github.io/MyPage_/)
+[All Articles (전체 글) →](https://github.com/CatIsApple/MyPage_)
 
 ## Jungle_
 
@@ -89,7 +89,7 @@
 <table>
   <tr>
     <td rowspan="2" width="25%" valign="middle">
-      <a href="https://catisapple.github.io/Jungle_/wil/2026-09-03-krafton-jungle-week-2/"><img src="https://raw.githubusercontent.com/CatIsApple/Jungle_/main/assets/posts/wil-2026-09-03.png" alt="크래프톤 정글 2주차" width="100%"></a>
+      <a href="https://github.com/CatIsApple/Jungle_/tree/main/wil/2026-09-03-krafton-jungle-week-2"><img src="https://raw.githubusercontent.com/CatIsApple/Jungle_/main/assets/posts/wil-2026-09-03.png" alt="크래프톤 정글 2주차" width="100%"></a>
     </td>
     <td width="75%" valign="top">
       <sub>WIL · 2026.09.03</sub><br>
@@ -99,7 +99,7 @@
   </tr>
   <tr height="1">
     <td width="75%" height="1" valign="bottom">
-      <a href="https://catisapple.github.io/Jungle_/wil/2026-09-03-krafton-jungle-week-2/">글 읽기 →</a>
+      <a href="https://github.com/CatIsApple/Jungle_/tree/main/wil/2026-09-03-krafton-jungle-week-2">글 읽기 →</a>
     </td>
   </tr>
   <tr>
