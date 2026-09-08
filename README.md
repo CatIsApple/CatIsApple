@@ -121,16 +121,24 @@
 
 [전체 글 →](https://github.com/CatIsApple/Jungle_)
 
-## Project (프로젝트)
+## Projects
 
 <table>
   <tr>
-    <td width="25%" valign="middle">
-      <a href="https://github.com/CatIsApple/Jungle_/tree/main/projects/2026-08-24-jungle-gym"><img src="https://raw.githubusercontent.com/CatIsApple/Jungle_/main/assets/projects/jungle-gym-thumbnail.jpg" alt="Jungle GYM 프로젝트 기록" width="100%"></a>
-    </td>
-    <td width="75%" valign="middle">
-      <strong>Jungle GYM</strong><br><br>
-      <a href="https://junglegym.club">Website ↗</a> · <a href="https://github.com/yongminkim0501/jungle-1">GitHub ↗</a>
+    <td width="100%" valign="top">
+      <a href="https://github.com/CatIsApple/Jungle_/tree/main/projects/2026-08-24-jungle-gym">
+        <img
+          src="https://raw.githubusercontent.com/CatIsApple/Jungle_/main/assets/projects/jungle-gym-thumbnail.jpg"
+          alt="Jungle GYM"
+          width="100%"
+        >
+      </a>
+      <br>
+      <strong>Jungle GYM</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+      <strong><a href="https://junglegym.club">Website</a></strong>&nbsp;
+      <strong>·</strong>&nbsp;
+      <strong><a href="https://github.com/yongminkim0501/jungle-1">GitHub</a></strong>
+      <br>
     </td>
   </tr>
 </table>
