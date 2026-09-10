@@ -89,6 +89,21 @@
 <table>
   <tr>
     <td rowspan="2" width="25%" valign="middle">
+      <a href="https://github.com/CatIsApple/Jungle_/tree/main/wil/2026-09-10-krafton-jungle-week-3"><img src="https://raw.githubusercontent.com/CatIsApple/Jungle_/main/assets/posts/wil-2026-09-10.png" alt="크래프톤 정글 3주차" width="100%"></a>
+    </td>
+    <td width="75%" valign="top">
+      <sub>WIL · 2026.09.10</sub><br>
+      <strong>크래프톤 정글 3주차</strong><br>
+      계획했던 학습을 끝내지 못한 한 주를 돌아보고, 4주차의 집중과 개선을 다짐했습니다.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="75%" height="1" valign="bottom">
+      <a href="https://github.com/CatIsApple/Jungle_/tree/main/wil/2026-09-10-krafton-jungle-week-3">글 읽기 →</a>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="25%" valign="middle">
       <a href="https://github.com/CatIsApple/Jungle_/tree/main/wil/2026-09-03-krafton-jungle-week-2"><img src="https://raw.githubusercontent.com/CatIsApple/Jungle_/main/assets/posts/wil-2026-09-03.png" alt="크래프톤 정글 2주차" width="100%"></a>
     </td>
     <td width="75%" valign="top">
