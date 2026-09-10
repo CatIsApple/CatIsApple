@@ -99,7 +99,8 @@
   </tr>
   <tr height="1">
     <td width="75%" height="1" valign="bottom">
-      <a href="https://github.com/CatIsApple/Jungle_/tree/main/wil/2026-09-10-krafton-jungle-week-3">글 읽기 →</a>
+      <a href="https://github.com/CatIsApple/Jungle_/tree/main/wil/2026-09-10-krafton-jungle-week-3">글 읽기 →</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="https://catisapple.github.io/Jungle_/wil/2026-09-10-krafton-jungle-week-3/">글만 보기 ↗</a>
     </td>
   </tr>
   <tr>
