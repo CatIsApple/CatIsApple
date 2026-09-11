@@ -48,32 +48,32 @@
 <table>
   <tr>
     <td rowspan="2" width="25%" valign="middle">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/firmware"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/runtime/cover.jpg" alt="Firmware (펌웨어)" width="100%"></a>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution/06-programs-and-executables/executable"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/executable/cover.png" alt="Executable (실행 파일)" width="100%"></a>
     </td>
     <td width="75%" valign="top">
-      <sub>2026.09.09</sub><br>
-      <strong>Firmware (펌웨어)</strong><br>
-      펌웨어의 역할과 소프트웨어와의 차이, 부팅·하드웨어 제어 과정과 보안을 정리했다.
+      <sub>2026.09.11</sub><br>
+      <strong>Executable (실행 파일)</strong><br>
+      실행 파일의 생성부터 ABI 검증, 메모리 로딩과 런타임 초기화까지 실행 과정을 정리했다.
     </td>
   </tr>
   <tr height="1">
     <td width="75%" height="1" valign="bottom">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/firmware">Read Article (글 읽기) →</a>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution/06-programs-and-executables/executable">Read Article (글 읽기) →</a>
     </td>
   </tr>
   <tr>
     <td rowspan="2" width="25%" valign="middle">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/runtime"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/runtime/cover.jpg" alt="Runtime (런타임)" width="100%"></a>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution/06-programs-and-executables/bytecode"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/bytecode/cover.png" alt="Bytecode (바이트코드)" width="100%"></a>
     </td>
     <td width="75%" valign="top">
-      <sub>2026.09.07</sub><br>
-      <strong>Runtime (런타임)</strong><br>
-      프로그램이 실행되는 런타임과 환경·시스템·라이브러리의 역할을 정리했습니다.
+      <sub>2026.09.11</sub><br>
+      <strong>Bytecode (바이트코드)</strong><br>
+      바이트코드의 역할과 사용 이유, JDK·JRE·JVM을 거치는 실행 흐름을 정리했다.
     </td>
   </tr>
   <tr height="1">
     <td width="75%" height="1" valign="bottom">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/runtime">Read Article (글 읽기) →</a>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution/06-programs-and-executables/bytecode">Read Article (글 읽기) →</a>
     </td>
   </tr>
 </table>
