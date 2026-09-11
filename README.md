@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td rowspan="2" width="25%" valign="middle">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/firmware"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/firmware/cover.png" alt="Firmware (펌웨어)" width="100%"></a>
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/firmware"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/runtime/cover.jpg" alt="Firmware (펌웨어)" width="100%"></a>
     </td>
     <td width="75%" valign="top">
       <sub>2026.09.09</sub><br>
