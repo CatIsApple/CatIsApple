@@ -41,10 +41,6 @@
 
 ## MyPage_
 
-컴퓨터 시스템의 개념과 실행 흐름을 정리합니다.
-
-[System Overview (시스템 전체 흐름)](https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview) · [Programming & Execution (프로그래밍과 실행)](https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution) · [All Categories (전체 카테고리) →](https://github.com/CatIsApple/MyPage_#main-categories-메인-카테고리)
-
 <table>
   <tr>
     <td rowspan="2" width="25%" valign="middle">
@@ -81,10 +77,6 @@
 [All Articles (전체 글) →](https://github.com/CatIsApple/MyPage_)
 
 ## Jungle_
-
-정글에서의 학습과 경험을 기록합니다.
-
-[TIL](https://github.com/CatIsApple/Jungle_/tree/main/til) · [WIL](https://github.com/CatIsApple/Jungle_/tree/main/wil) · [Experiences](https://github.com/CatIsApple/Jungle_/tree/main/experiences) · [Projects](https://github.com/CatIsApple/Jungle_/tree/main/projects) · [Reviews](https://github.com/CatIsApple/Jungle_/tree/main/reviews)
 
 <table>
   <tr>
