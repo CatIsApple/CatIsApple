@@ -81,6 +81,22 @@
 <table>
   <tr>
     <td rowspan="2" width="25%" valign="middle">
+      <a href="https://github.com/CatIsApple/Jungle_/tree/main/wil/2026-09-17-krafton-jungle-week-4"><img src="https://raw.githubusercontent.com/CatIsApple/Jungle_/main/assets/posts/wil-2026-09-17.png" alt="연결 리스트와 전달력" width="100%"></a>
+    </td>
+    <td width="75%" valign="top">
+      <sub>WIL · 2026.09.17</sub><br>
+      <strong>연결 리스트와 전달력</strong><br>
+      Linked List 문제를 풀고 CS:APP 3장 학습을 돌아보며, 발표 자료와 전달 방식을 함께 점검했습니다.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="75%" height="1" valign="bottom">
+      <a href="https://github.com/CatIsApple/Jungle_/tree/main/wil/2026-09-17-krafton-jungle-week-4">글 읽기 →</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="https://catisapple.github.io/Jungle_/wil/2026-09-17-krafton-jungle-week-4/">글만 보기 ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="25%" valign="middle">
       <a href="https://github.com/CatIsApple/Jungle_/tree/main/wil/2026-09-10-krafton-jungle-week-3"><img src="https://raw.githubusercontent.com/CatIsApple/Jungle_/main/assets/posts/wil-2026-09-10.png" alt="크래프톤 정글 3주차" width="100%"></a>
     </td>
     <td width="75%" valign="top">
@@ -108,21 +124,6 @@
   <tr height="1">
     <td width="75%" height="1" valign="bottom">
       <a href="https://github.com/CatIsApple/Jungle_/tree/main/wil/2026-09-03-krafton-jungle-week-2">글 읽기 →</a>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2" width="25%" valign="middle">
-      <a href="https://github.com/CatIsApple/Jungle_/tree/main/til/2026-08-31-big-o-and-radix-sort"><img src="https://raw.githubusercontent.com/CatIsApple/Jungle_/main/assets/posts/til-2026-08-31.png" alt="Big O를 처음 배우다" width="100%"></a>
-    </td>
-    <td width="75%" valign="top">
-      <sub>TIL · 2026.08.31</sub><br>
-      <strong>Big O를 처음 배우다</strong><br>
-      시간·공간 복잡도를 배우고 Radix Sort를 직접 구현하며 막힌 지점을 해결했습니다.
-    </td>
-  </tr>
-  <tr height="1">
-    <td width="75%" height="1" valign="bottom">
-      <a href="https://github.com/CatIsApple/Jungle_/tree/main/til/2026-08-31-big-o-and-radix-sort">글 읽기 →</a>
     </td>
   </tr>
 </table>
