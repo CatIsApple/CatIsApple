@@ -44,6 +44,21 @@
 <table>
   <tr>
     <td rowspan="2" width="25%" valign="middle">
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/02-program-execution-flow/source-code"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/source-code/cover.png" alt="Source Code (소스 코드)" width="100%"></a>
+    </td>
+    <td width="75%" valign="top">
+      <sub>2026.09.21</sub><br>
+      <strong>Source Code (소스 코드)</strong><br>
+      소스 코드와 목적 코드, 고급·저급 언어의 관계와 C/C++의 컴파일·링크 과정을 정리했다.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="75%" height="1" valign="bottom">
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/02-program-execution-flow/source-code">Read Article (글 읽기) →</a>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="25%" valign="middle">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution/06-programs-and-executables/executable"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/executable/cover.png" alt="Executable (실행 파일)" width="100%"></a>
     </td>
     <td width="75%" valign="top">
@@ -55,21 +70,6 @@
   <tr height="1">
     <td width="75%" height="1" valign="bottom">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution/06-programs-and-executables/executable">Read Article (글 읽기) →</a>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2" width="25%" valign="middle">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution/06-programs-and-executables/bytecode"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/bytecode/cover.png" alt="Bytecode (바이트코드)" width="100%"></a>
-    </td>
-    <td width="75%" valign="top">
-      <sub>2026.09.11</sub><br>
-      <strong>Bytecode (바이트코드)</strong><br>
-      바이트코드의 역할과 사용 이유, JDK·JRE·JVM을 거치는 실행 흐름을 정리했다.
-    </td>
-  </tr>
-  <tr height="1">
-    <td width="75%" height="1" valign="bottom">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution/06-programs-and-executables/bytecode">Read Article (글 읽기) →</a>
     </td>
   </tr>
 </table>
