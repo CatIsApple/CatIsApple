@@ -44,6 +44,21 @@
 <table>
   <tr>
     <td rowspan="2" width="25%" valign="middle">
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/04-operating-systems/03-concurrency-and-synchronization/concurrency-parallelism"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/concurrency-parallelism/cover.png" alt="Concurrency &amp; Parallelism (동시성과 병렬성)" width="100%"></a>
+    </td>
+    <td width="75%" valign="top">
+      <sub>2026.09.23</sub><br>
+      <strong>Concurrency &amp; Parallelism (동시성과 병렬성)</strong><br>
+      동시성과 병렬성의 차이부터 CPU 스케줄링, 문맥 교환, I/O 대기, 경쟁 상태와 동기화까지 정리했다.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="75%" height="1" valign="bottom">
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/04-operating-systems/03-concurrency-and-synchronization/concurrency-parallelism">Read Article (글 읽기) →</a>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="25%" valign="middle">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/02-program-execution-flow/source-code"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/source-code/cover.png" alt="Source Code (소스 코드)" width="100%"></a>
     </td>
     <td width="75%" valign="top">
@@ -55,21 +70,6 @@
   <tr height="1">
     <td width="75%" height="1" valign="bottom">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/02-program-execution-flow/source-code">Read Article (글 읽기) →</a>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2" width="25%" valign="middle">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution/06-programs-and-executables/executable"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/executable/cover.png" alt="Executable (실행 파일)" width="100%"></a>
-    </td>
-    <td width="75%" valign="top">
-      <sub>2026.09.11</sub><br>
-      <strong>Executable (실행 파일)</strong><br>
-      실행 파일의 생성부터 ABI 검증, 메모리 로딩과 런타임 초기화까지 실행 과정을 정리했다.
-    </td>
-  </tr>
-  <tr height="1">
-    <td width="75%" height="1" valign="bottom">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/01-programming-execution/06-programs-and-executables/executable">Read Article (글 읽기) →</a>
     </td>
   </tr>
 </table>
