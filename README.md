@@ -44,6 +44,21 @@
 <table>
   <tr>
     <td rowspan="2" width="25%" valign="middle">
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/operating-system"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/operating-system/cover.png" alt="Operating System (운영체제)" width="100%"></a>
+    </td>
+    <td width="75%" valign="top">
+      <sub>2026.09.28</sub><br>
+      <strong>Operating System (운영체제)</strong><br>
+      운영체제가 CPU에서 실행되는 소프트웨어라는 점과 하드웨어 자원을 관리·보호하고 추상화하는 역할을 정리했다.
+    </td>
+  </tr>
+  <tr height="1">
+    <td width="75%" height="1" valign="bottom">
+      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/01-system-components/operating-system">Read Article (글 읽기) →</a>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="25%" valign="middle">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/04-operating-systems/03-concurrency-and-synchronization/concurrency-parallelism"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/concurrency-parallelism/cover.png" alt="Concurrency &amp; Parallelism (동시성과 병렬성)" width="100%"></a>
     </td>
     <td width="75%" valign="top">
@@ -55,21 +70,6 @@
   <tr height="1">
     <td width="75%" height="1" valign="bottom">
       <a href="https://github.com/CatIsApple/MyPage_/tree/main/04-operating-systems/03-concurrency-and-synchronization/concurrency-parallelism">Read Article (글 읽기) →</a>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2" width="25%" valign="middle">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/02-program-execution-flow/source-code"><img src="https://raw.githubusercontent.com/CatIsApple/MyPage_/main/assets/articles/source-code/cover.png" alt="Source Code (소스 코드)" width="100%"></a>
-    </td>
-    <td width="75%" valign="top">
-      <sub>2026.09.21</sub><br>
-      <strong>Source Code (소스 코드)</strong><br>
-      소스 코드와 목적 코드, 고급·저급 언어의 관계와 C/C++의 컴파일·링크 과정을 정리했다.
-    </td>
-  </tr>
-  <tr height="1">
-    <td width="75%" height="1" valign="bottom">
-      <a href="https://github.com/CatIsApple/MyPage_/tree/main/00-system-overview/02-program-execution-flow/source-code">Read Article (글 읽기) →</a>
     </td>
   </tr>
 </table>
